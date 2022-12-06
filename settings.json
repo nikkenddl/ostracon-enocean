@@ -1,0 +1,17 @@
+{
+  "deviceId": "scl-raspi-1",
+  "deviceType": "scl-raspi-enocean",
+  "endpointUrl": "",
+  "localLogDirectory": "./enocean-log",
+  "localLogRetentionPeriodDay": 360,
+  "originatorIds": [
+    "002e5c72",
+    "002e5c66"
+  ],
+  "sendChunkSize": 50,
+  "sendIntervalMs": 30000,
+  "sendRetryLimitMs": 3600000,
+  "serialPortPath": "/dev/ttyUSB_EnOcean",
+  "timezone": "Asia/Tokyo",
+  "version": "2022-12-01"
+}
